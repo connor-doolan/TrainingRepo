@@ -134,6 +134,13 @@ display(example_df)
 
 # COMMAND ----------
 
+# MAGIC %md # Header
+# MAGIC - bullet 1
+# MAGIC - bullet 2
+# MAGIC - [google]('google.com')
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ## Run a SQL cell
